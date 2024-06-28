@@ -1,3 +1,4 @@
+Design Gateway uses this folk of MsQuic as a reference point for our tests. We'd like to thank the developers of this open source project. Please visit [microsoft/msquic](https://github.com/microsoft/msquic) for the main branch.
 <h1 align="center"><img src="docs/images/readme_logo.png" width="500" alt="MsQuic logo"/></h1>
 
 [![Documentation](https://img.shields.io/static/v1?label=Documentation&message=Dashboard&color=blue)](https://microsoft.github.io/msquic/msquicdocs/docs/API.html)
