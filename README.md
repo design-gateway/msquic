@@ -3,7 +3,7 @@ Design Gateway - QUIC10GC-IP
 QUIC Client 10Gbps IP Core (``QUIC10GC-IP``) is specifically engineered to manage the TLS1.3 handshake for a client, encrypt outgoing payload data, decrypt incoming payload data and handle QUIC transport tasks, effectively covering both QUIC and UDP/IP layers.
 
 Design Gateway uses this folk of MsQuic as a reference point for our tests and our `QUIC10GC-IP` demonstration. 
-For more details of [QUIC10GC-IP](https://dgway.com/ASIP_E.html#QUIC), please visit our website [Design-gateway](https://design-gateway.com/).
+For more details of [QUIC10GC-IP](https://dgway.com/en/amd/quic-ip.html), please visit our website [Design-gateway](https://design-gateway.com/).
 
 We'd like to thank the developers of this open source project. Please visit [microsoft/msquic](https://github.com/microsoft/msquic) for the main branch.
 <h1 align="center"><img src="docs/images/readme_logo.png" width="500" alt="MsQuic logo"/></h1>
